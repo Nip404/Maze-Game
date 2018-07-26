@@ -1,7 +1,7 @@
 # Maze-Generator
 A graphical maze generator in Python 3.x using the Pygame library.
 
-The algorithm used is the [Recursive Backtracking algorithm](https://en.wikipedia.or/wiki/Maze_generation_algorithm#Recursive_backtracker).\ 
+The algorithm used is the [Recursive Backtracking algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_backtracker).\
 I am planning to implement the [Wall follower algorithm](https://en.wikipedia.org/wiki/Maze_solving_algorithm#Wall_follower) to solve the mazes, as the algorithm creates a perfect maze.
 
 # Shortcuts
