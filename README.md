@@ -1,4 +1,4 @@
-# Maze-Generator
+# Maze-Game
 A graphical maze generator and solver in Python 3.x using the Pygame library.
 
 The algorithm used to generate it is the [Recursive Backtracking algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_backtracker), which creates a perfect maze.
